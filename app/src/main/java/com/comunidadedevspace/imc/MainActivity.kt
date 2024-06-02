@@ -16,6 +16,12 @@ class MainActivity : AppCompatActivity() {
         var btnCalcular = findViewById<Button>(R.id.calcular)
 
 
+
+
+
+
+
+
         btnCalcular.setOnClickListener(){
             val altura = edtaltura.text
 
